@@ -16,7 +16,7 @@ group :development do
   gem 'vcr'
   gem 'webmock'
 
-  gem 'rubocop', '~> 0.38.0'
+  gem 'rubocop', '~> 0.81.0'
 end
 
 group :debugging do
